@@ -1,0 +1,6 @@
+c:\users\joanna\documents\visual studio 2012\Projects\OptionCalculator\OptionCalculator\bin\Debug\OptionCalculator.exe.config
+c:\users\joanna\documents\visual studio 2012\Projects\OptionCalculator\OptionCalculator\bin\Debug\OptionCalculator.exe
+c:\users\joanna\documents\visual studio 2012\Projects\OptionCalculator\OptionCalculator\bin\Debug\OptionCalculator.pdb
+c:\users\joanna\documents\visual studio 2012\Projects\OptionCalculator\OptionCalculator\obj\Debug\OptionCalculator.csprojResolveAssemblyReference.cache
+c:\users\joanna\documents\visual studio 2012\Projects\OptionCalculator\OptionCalculator\obj\Debug\OptionCalculator.exe
+c:\users\joanna\documents\visual studio 2012\Projects\OptionCalculator\OptionCalculator\obj\Debug\OptionCalculator.pdb
